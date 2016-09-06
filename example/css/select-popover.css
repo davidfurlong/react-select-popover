@@ -11,8 +11,7 @@
     max-width: 28em;
     padding: 1em;
     border: 1px solid #dadada;
-    background: #fff;
-    margin-top: 20px; }
+    background: #fff; }
     .react-select-popover .popover .tag {
       cursor: pointer; }
     .react-select-popover .popover .empty-list {
@@ -36,7 +35,6 @@
     border: 1px solid #dadada;
     background: #fff;
     -webkit-transform: rotate(45deg);
-        -ms-transform: rotate(45deg);
             transform: rotate(45deg); }
   .react-select-popover .popover:before {
     z-index: -1; }
